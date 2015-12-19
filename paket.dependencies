@@ -1,0 +1,5 @@
+source https://nuget.org/api/v2
+nuget ExtCore
+nuget Suave
+nuget FSharp.Core
+nuget FSharp.Data
